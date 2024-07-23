@@ -9,7 +9,7 @@ assignees: ''
 <!--
 IMPORTANT: If you don't have an action plan, please consider create a DISCUSSION (idea) instead for an open a feature request issue.
 
-https://github.com/trivago/prettier-plugin-sort-imports/discussions/new
+https://github.com/miller-svt/prettier-plugin-sort-imports/discussions/new
 
 -->
 

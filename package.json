@@ -1,14 +1,14 @@
 {
-  "name": "@trivago/prettier-plugin-sort-imports",
-  "version": "4.3.0",
+  "name": "@miller-svt/prettier-plugin-sort-imports",
+  "version": "4.4.0",
   "description": "A prettier plugins to sort imports in provided RegEx order",
   "main": "lib/src/index.js",
   "types": "types/index.d.ts",
   "repository": {
-    "url": "https://github.com/trivago/prettier-plugin-sort-imports",
+    "url": "https://github.com/MillerSvt/prettier-plugin-sort-imports",
     "type": "git"
   },
-  "homepage": "https://github.com/trivago/prettier-plugin-sort-imports#readme",
+  "homepage": "https://github.com/MillerSvt/prettier-plugin-sort-imports#readme",
   "scripts": {
     "prepare": "yarn run compile",
     "compile": "tsc",
