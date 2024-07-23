@@ -1,6 +1,6 @@
 {
   "name": "@miller-svt/prettier-plugin-sort-imports",
-  "version": "4.4.0",
+  "version": "4.4.1",
   "description": "A prettier plugins to sort imports in provided RegEx order",
   "main": "lib/src/index.js",
   "types": "types/index.d.ts",
@@ -60,5 +60,15 @@
     "@vue/compiler-sfc": {
       "optional": true
     }
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "lib",
+    "types",
+    "CHANGELOG.md",
+    "LICENSE",
+    "README.md"
+  ]
 }
